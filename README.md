@@ -1,3 +1,5 @@
+#EduAlpha
+
 Welcome to Edu Alpha: Your top choice for online learning.
 
 Diverse Learning Goals: Whether you aim to acquire new skills, enhance existing knowledge, or pursue personal growth, Edu Alpha caters to all.
