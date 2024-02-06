@@ -1,4 +1,4 @@
-#EduAlpha
+# EduAlpha
 
 Welcome to Edu Alpha: Your top choice for online learning.
 
